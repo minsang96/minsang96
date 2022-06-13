@@ -45,9 +45,12 @@
 </div>
 
   <br/>
-
+  
+<div align=center>
+  
   ![Github stats](https://github-readme-stats.vercel.app/api?username=minsang96&show_icons=true&theme=dracula
 ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsang96&layout=compact&theme=dracula)](https://github.com/metleeha)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbalstkd96)](https://solved.ac/dbalstkd96)
-  
+  [![Solved.ac
+  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbalstkd96)](https://solved.ac/dbalstkd96)
+
+</div>
