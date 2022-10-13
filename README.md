@@ -7,6 +7,9 @@
 </div>
 
 <div align=center>
+  
+  <h3>https://velog.io/@minsang96
+  
   <h3>Main Stack  
   <br/>
   <br/>  
